@@ -1,4 +1,12 @@
 # Created by .ignore support plugin (hsz.mobi)
+/.idea/*
+.idea/inspectionProfiles
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/pythonlearing.iml
+.idea/workspace.xml
+
 __pycache__/
 *.py[cod]
 *$py.class
